@@ -1,5 +1,9 @@
 # HWRenamer
 
+<a href="https://www.youtube.com/@HelloWorld56913">Youtube</a>
+<a href="https://new.donatepay.ru/@HWDP56">Донат</a>
+<a href="https://discord.gg/3gBC4wh9Dh">Discord</a>
+
 HWRenamer — инструмент для случайного переименования файлов в папке.
 Написан на Python с использованием модулей:
 1. OS
@@ -7,4 +11,4 @@ HWRenamer — инструмент для случайного переимен�
 3. Tkinter
 4. WebBrowser
 5. CustomTkinter
-<a href="https://www.google.com">Google</a>
+
